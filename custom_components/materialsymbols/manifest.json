@@ -1,0 +1,11 @@
+{
+    "domain": "materialsymbols",
+    "name": "Material Symbols",
+    "documentation": "https://github.com/goodbyepavlyi/hass-materialsymbols",
+    "dependencies": ["frontend", "http"],
+    "codeowners": [],
+    "requirements": [],
+    "config_flow": true,
+    "version": "1.0",
+    "iot_class": "local_polling"
+}
